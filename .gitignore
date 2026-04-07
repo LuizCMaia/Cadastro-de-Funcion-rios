@@ -1,0 +1,11 @@
+# Configurações sensíveis - NÃO subir para o GitHub
+config.php
+
+# Dependências e cache
+vendor/
+*.log
+*.cache
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
